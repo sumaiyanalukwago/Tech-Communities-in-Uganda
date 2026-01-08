@@ -9,7 +9,7 @@ This is a list of all of the tech communities in Uganda
 - [Africa's Talking](https://www.meetup.com/python-nairobi/)
 - [Python Kampala](https://pythontz.github.io/)
 - [PyLadies Kampala](https://linktr.ee/spaceyatech)
-- [DroidCon Uganda]([https://linktr.ee/spaceyatech](https://www.uganda.droidcon.com/))
+- [DroidCon Uganda] ((https://www.uganda.droidcon.com/)](https://www.uganda.droidcon.com/))
 - [Edutech Club](https://linktr.ee/spaceyatech)
 - [OSCA Kampala](https://linktr.ee/spaceyatech)
 - [JavaScript Kampala](https://linktr.ee/spaceyatech)
