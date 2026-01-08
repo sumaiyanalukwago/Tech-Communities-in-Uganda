@@ -9,7 +9,7 @@ This is a list of all of the tech communities in Uganda
 - Africa's Talking: (https://x.com/ATCommunityKla)
 - Python Kampala: (https://www.meetup.com/pykampala/))
 - PyLadies Kampala: (https://pyladies.com/locations/kampala/)
-- DroidCon Uganda : (https://www.uganda.droidcon.com/)](https://www.uganda.droidcon.com/)
+- DroidCon Uganda :(https://www.uganda.droidcon.com/)](https://www.uganda.droidcon.com/)
 - [Edutech Club](https://linktr.ee/spaceyatech)
 - [OSCA Kampala](https://linktr.ee/spaceyatech)
 - [JavaScript Kampala](https://linktr.ee/spaceyatech)
