@@ -7,7 +7,7 @@ This is a list of all of the tech communities in Uganda
 - MTN Momo Developers:(https://momodevelopercommunity.mtn.com/)
 - Code Zone Ug: (https://codezoneug.com/)
 - Africa's Talking: (https://x.com/ATCommunityKla)
-- [Python Kampala](https://pythontz.github.io/)
+- Python Kampala: (https://www.meetup.com/pykampala/))
 - [PyLadies Kampala](https://linktr.ee/spaceyatech)
 - DroidCon Uganda : (https://www.uganda.droidcon.com/)](https://www.uganda.droidcon.com/)
 - [Edutech Club](https://linktr.ee/spaceyatech)
