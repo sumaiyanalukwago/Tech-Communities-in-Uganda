@@ -37,6 +37,7 @@ This is a list of all of the tech communities in Uganda
 - OSCA Kampala:()
 - Kampala Women in Machine Learning and Data Science: ()
 - BlockChain Devs Ug: ()
+- GDG on Campus ISBAT University:(https://gdg.community.dev/gdg-on-campus-isbat-university-kampala-uganda/)
 
 
 ## Acronyms
