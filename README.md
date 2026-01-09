@@ -24,7 +24,7 @@ This is a list of all of the tech communities in Uganda
 - GDG Cloud Kampala: (https://gdg.community.dev/gdg-cloud-kampala/)
 - GDG Kampala: (https://gdg.community.dev/gdg-kampala/)
 - GDG Soroti: ()
-- GDG Bugiri: ()
+- GDG Bugiri: (https://gdg.community.dev/gdg-bugiri/)
 - GDG Busitema:()
 - GDG Cloud Mbarara: (https://gdg.community.dev/gdg-cloud-mbarara/)
 - GDG Entebbe:()
