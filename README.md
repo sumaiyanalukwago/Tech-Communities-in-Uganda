@@ -22,7 +22,7 @@ This is a list of all of the tech communities in Uganda
 - GDG Kampala: (https://gdg.community.dev/gdg-kampala/)
 - GDG Bugiri: (https://gdg.community.dev/gdg-bugiri/)
 - GDG Cloud Mbarara: (https://gdg.community.dev/gdg-cloud-mbarara/)
-- Women Techmakers Mbarara: ()
+- Women Techmakers Mbarara: (https://x.com/WTMMbarara)
 - Women Techmakers Kayunga:()
 - Women Techmakers Jinja: ()
 - Women Techmakers Mbale: ()
