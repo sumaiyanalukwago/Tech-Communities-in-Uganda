@@ -18,7 +18,7 @@ This is a list of all of the tech communities in Uganda
 - Women Techmakers Kampala:()
 - GDG Gulu: ()
 - GDG Jinja : ()
-- GDG Cloud Jinja:()
+- GDG Cloud Jinja:(https://gdg.community.dev/gdg-cloud-jinja/)
 - GDG Kayunga : ()
 - GDG Mbale: ()
 - GDG Cloud Kampala: (https://gdg.community.dev/gdg-cloud-kampala/)
