@@ -37,6 +37,7 @@ This is a list of all of the tech communities in Uganda
 - OSCA Kampala:()
 - Kampala Women in Machine Learning and Data Science: ()
 - OSCA Kampala: ()
+- BlockChain Devs Ug: ()
 
 
 ## Acronyms
