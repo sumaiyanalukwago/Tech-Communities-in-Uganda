@@ -38,6 +38,7 @@ This is a list of all of the tech communities in Uganda
 - Kampala Women in Machine Learning and Data Science: ()
 - BlockChain Devs Ug: ()
 - GDG on Campus ISBAT University:(https://gdg.community.dev/gdg-on-campus-isbat-university-kampala-uganda/)
+- GDG on Campus KIU: (https://gdg.community.dev/gdg-on-campus-kampala-international-university-kampala-uganda/)
 
 
 ## Acronyms
