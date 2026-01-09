@@ -40,6 +40,7 @@ This is a list of all of the tech communities in Uganda
 - GDG on Campus ISBAT University:(https://gdg.community.dev/gdg-on-campus-isbat-university-kampala-uganda/)
 - GDG on Campus KIU: (https://gdg.community.dev/gdg-on-campus-kampala-international-university-kampala-uganda/)
 - GDG on Campus MuK:(https://gdg.community.dev/gdg-on-campus-makerere-university-kampala-uganda/)
+- GDG on Campus UICT: (https://gdg.community.dev/gdg-on-campus-uganda-institute-of-information-and-communications-technology-kampala-uganda/)
 
 
 ## Acronyms
