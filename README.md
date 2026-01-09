@@ -39,6 +39,7 @@ This is a list of all of the tech communities in Uganda
 - BlockChain Devs Ug: ()
 - GDG on Campus ISBAT University:(https://gdg.community.dev/gdg-on-campus-isbat-university-kampala-uganda/)
 - GDG on Campus KIU: (https://gdg.community.dev/gdg-on-campus-kampala-international-university-kampala-uganda/)
+- GDG on Campus MuK:(https://gdg.community.dev/gdg-on-campus-makerere-university-kampala-uganda/)
 
 
 ## Acronyms
