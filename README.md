@@ -24,8 +24,6 @@ This is a list of all of the tech communities in Uganda
 - GDG Cloud Mbarara: (https://gdg.community.dev/gdg-cloud-mbarara/)
 - Women Techmakers Mbarara: (https://x.com/WTMMbarara)
 - Women Techmakers Jinja:(https://x.com/WtmJinja)
-- Women Techmakers Mbale: ()
-- Women Techmakers Soroti: ()
 - Wikimedia Community User Group Uganda: (https://www.linkedin.com/company/wikimedia-uganda/posts/?feedView=all)
 - Kampala Women in Machine Learning and Data Science: (https://www.meetup.com/kampala-women-in-machine-learning-and-data-science/)
 - BlockChain Devs Ug: ()
