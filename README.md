@@ -26,7 +26,7 @@ This is a list of all of the tech communities in Uganda
 - GDG Soroti: ()
 - GDG Bugiri: ()
 - GDG Busitema:()
-- GDG Cloud Mbarara: ()
+- GDG Cloud Mbarara: (https://gdg.community.dev/gdg-cloud-mbarara/)
 - GDG Entebbe:()
 - Women Techmakers Mbarara: ()
 - Women Techmakers Kayunga:()
