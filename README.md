@@ -20,7 +20,7 @@ This is a list of all of the tech communities in Uganda
 - GDG Jinja: (https://gdg.community.dev/gdg-jinja/)
 - GDG Cloud Jinja:(https://gdg.community.dev/gdg-cloud-jinja/)
 - GDG Kayunga : ()
-- GDG Mbale: ()
+- GDG Mbale: (https://gdg.community.dev/gdg-mbale/)
 - GDG Cloud Kampala: (https://gdg.community.dev/gdg-cloud-kampala/)
 - GDG Kampala: (https://gdg.community.dev/gdg-kampala/)
 - GDG Soroti: ()
