@@ -13,7 +13,7 @@ This is a list of all of the tech communities in Uganda
 - Edutech Club:(https://www.edutechclub.africa/)
 - OSCA Kampala: (https://oscakampala.org/)
 - JavaScript Kampala:(https://kampala.js.org/)
-- WiCyb Kampala:()
+- WiCyb Uganda:(https://www.wicys.org/wicys-uganda-affiliate/)
 - Women Techmakers Kampala:()
 - GDG Jinja: (https://gdg.community.dev/gdg-jinja/)
 - GDG Cloud Jinja:(https://gdg.community.dev/gdg-cloud-jinja/)
