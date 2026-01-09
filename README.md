@@ -3,11 +3,11 @@
 
 This is a list of all of the tech communities in Uganda
 
-- Wordpress Kampala: (https://x.com/WordPressKLA))
+- Wordpress Kampala: (https://x.com/WordPressKLA)
 - MTN Momo Developers:(https://momodevelopercommunity.mtn.com/)
 - Code Zone Ug: (https://codezoneug.com/)
 - Africa's Talking: (https://x.com/ATCommunityKla)
-- Python Kampala: (https://www.meetup.com/pykampala/))
+- Python Kampala: (https://www.meetup.com/pykampala/)
 - PyLadies Kampala: (https://pyladies.com/locations/kampala/)
 - DroidCon Uganda :(https://www.uganda.droidcon.com/)](https://www.uganda.droidcon.com/)
 - Edutech Club:(https://www.edutechclub.africa/)
@@ -36,8 +36,10 @@ This is a list of all of the tech communities in Uganda
 
 ## Acronyms
 
-- [GDG]:Google Developer Groups
-- [OSCA]:Open Source Community Africa
-- [WiCyb]: Women in CyberSecurity 
+- GDG: Google Developer Groups
+- OSCA:Open Source Community Africa
+- WiCyb: Women in CyberSecurity
+- KIU: Kampala International University
+- 
   
 
