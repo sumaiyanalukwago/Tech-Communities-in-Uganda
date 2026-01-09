@@ -21,8 +21,8 @@ This is a list of all of the tech communities in Uganda
 - GDG Cloud Jinja:()
 - GDG Kayunga : ()
 - GDG Mbale: ()
-- GDG Cloud Kampala: ()
-- GDG Kampala: ()
+- GDG Cloud Kampala: (https://gdg.community.dev/gdg-cloud-kampala/)
+- GDG Kampala: (https://gdg.community.dev/gdg-kampala/)
 - GDG Soroti: ()
 - GDG Bugiri: ()
 - GDG Busitema:()
@@ -36,7 +36,6 @@ This is a list of all of the tech communities in Uganda
 - Wikimedia Community User Group Uganda: ()
 - OSCA Kampala:()
 - Kampala Women in Machine Learning and Data Science: ()
-- OSCA Kampala: ()
 - BlockChain Devs Ug: ()
 
 
