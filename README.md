@@ -42,6 +42,6 @@ This is a list of all of the tech communities in Uganda
 - KIU: Kampala International University
 - MUK: Makerere University Kampala
 - UICT: Uganda Institute of Information Technology
-- UTAMU: 
+- UTAMU: Uganda Technology and Management University
   
 
