@@ -40,6 +40,8 @@ This is a list of all of the tech communities in Uganda
 - OSCA: Open Source Community Africa
 - WiCyb: Women in CyberSecurity
 - KIU: Kampala International University
-- 
+- MUK: Makerere University Kampala
+- UICT: Uganda Institute of Information Technology
+- UTAMU: 
   
 
